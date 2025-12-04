@@ -92,3 +92,8 @@ Generated a structured comparative matrix to reveal category whitespace and bran
 * Built a **B2B journey & portal roadmap**, improving reorder clarity and potential operational efficiency (~10%).
 * Developed positioning, packaging, and pricing frameworks usable across future launches.
 
+ 📎 Attachments
+[📂 **Download the Final Completion Deck (PDF)**](./Marico%20Final%20Deck.pdf)
+
+
+
