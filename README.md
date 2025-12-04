@@ -93,7 +93,7 @@ Generated a structured comparative matrix to reveal category whitespace and bran
 * Developed positioning, packaging, and pricing frameworks usable across future launches.
 
  📎 Attachments
-[📂 **Download the Final Completion Deck (PDF)**](./Marico%20Final%20Deck.pdf)
+[📂 **Download the Final Completion Deck (PDF)**](https://github.com/Subhayu-005/Marico-Limited-Project/blob/main/Marico%20Final%20Deck.pdf)
 
 
 
